@@ -1,0 +1,4 @@
+baseURL = 'http://nogo.wtf/'
+languageCode = 'en-us'
+title = "Nogo's world"
+theme = "PaperMod"
