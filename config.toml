@@ -1,11 +1,11 @@
-baseURL = 'https://nogo.wtf/'
+baseURL = 'https://www.nogo.wtf/'
 languageCode = 'en-us'
 title = "nogo's world"
 theme = "PaperMod"
 
 [params]
 env = "production"
-title = "Nogo's world"
+title = "nogo's world"
 description = "Web 3 is my life"
 keywords = [ "Blog", "DeFi", "Ethereum", "Personal" ]
 # images = [ "images/defi-space.png" ]
