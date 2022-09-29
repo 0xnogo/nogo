@@ -1,12 +1,13 @@
 baseURL = 'http://nogo.wtf/'
 languageCode = 'en-us'
-title = "Nogo's world"
+title = "nogo's world"
 theme = "PaperMod"
 
 [params.profileMode]
 enabled = true
 title = "Nogo's world"
 subtitle = "Web 3 is my life"
+keywords = [ "Blog", "DeFi", "Ethereum", "Personal" ]
 imageUrl = "pp.jpeg"
 imageTitle = "nogo logo"
 imageWidth = 120
@@ -32,13 +33,18 @@ url = "https://twitter.com/0xnogo"
 name = "github"
 url = "https://github.com/0xnogo"
 
-[assets]
+[params.assets]
 disableFingerprinting = true
-favicon = "favicon.ico"
-favicon16x16 = "favicon.ico"
-favicon32x32 = "favicon.ico"
-apple_touch_icon = "favicon.ico"
-safari_pinned_tab = "favicon.ico"
+favicon = "pp.jpeg"
+favicon16x16 = "pp.jpeg"
+favicon32x32 = "pp.jpeg"
+apple_touch_icon = "pp.jpeg"
+safari_pinned_tab = "pp.jpeg"
+
+[params.label]
+text = "nogo's world"
+icon = "pp.jpeg"
+iconHeight = 35
 
 [[menu.main]]
 identifier = "posts"
