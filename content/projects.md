@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+draft: false
 ShowToc: true
 TocOpen: true
 ---
