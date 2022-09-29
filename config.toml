@@ -2,3 +2,35 @@ baseURL = 'http://nogo.wtf/'
 languageCode = 'en-us'
 title = "Nogo's world"
 theme = "PaperMod"
+
+[params.profileMode]
+enabled = true
+title = "Nogo's world"
+subtitle = "Web 3 is my life"
+imageUrl = "pp.jpeg"
+imageTitle = "nogo logo"
+imageWidth = 120
+imageHeight = 120
+
+[[params.profileMode.buttons]]
+name = "Articles"
+url = "/posts"
+
+[[params.profileMode.buttons]]
+name = "Projects"
+url = "/projects"
+
+[[params.profileMode.buttons]]
+name = "Daily log"
+url = "/logs"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/0xnogo"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/0xnogo"
+
+[params]
+ShowBreadCrumbs = true
