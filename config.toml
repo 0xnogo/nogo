@@ -35,11 +35,11 @@ url = "https://github.com/0xnogo"
 
 [params.assets]
 disableFingerprinting = true
-favicon = "pp.jpeg"
-favicon16x16 = "pp.jpeg"
-favicon32x32 = "pp.jpeg"
-apple_touch_icon = "pp.jpeg"
-safari_pinned_tab = "pp.jpeg"
+favicon = "favicon/favicon.ico"
+favicon16x16 = "favicon/favicon-16x16.png"
+favicon32x32 = "favicon/favicon-32x32.png"
+apple_touch_icon = "favicon/apple-touch-icon.png"
+safari_pinned_tab = "favicon/safari-pinned-tab.svg"
 
 [params.label]
 text = "nogo's world"
@@ -63,3 +63,6 @@ identifier = "logs"
 name = "logs"
 url = "/logs"
 weight = 30
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
