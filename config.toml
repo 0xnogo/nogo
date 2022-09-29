@@ -1,4 +1,4 @@
-baseURL = 'http://nogo.wtf/'
+baseURL = 'https://nogo.wtf/'
 languageCode = 'en-us'
 title = "nogo's world"
 theme = "PaperMod"
