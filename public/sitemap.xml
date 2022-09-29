@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://nogo.wtf/categories/</loc>
+    <loc>https://nogo.wtf/categories/</loc>
   </url><url>
-    <loc>http://nogo.wtf/</loc>
+    <loc>https://nogo.wtf/logs/</loc>
   </url><url>
-    <loc>http://nogo.wtf/tags/</loc>
+    <loc>https://nogo.wtf/</loc>
+  </url><url>
+    <loc>https://nogo.wtf/projects/</loc>
+  </url><url>
+    <loc>https://nogo.wtf/tags/</loc>
   </url>
 </urlset>

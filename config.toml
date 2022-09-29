@@ -1,7 +1,8 @@
-baseURL = 'https://www.nogo.wtf/'
+baseURL = 'https://nogo.wtf/'
 languageCode = 'en-us'
 title = "nogo's world"
 theme = "PaperMod"
+enableRobotsTXT = true
 
 [params]
 env = "production"
@@ -15,9 +16,9 @@ disableThemeToggle = false
 
 [params.profileMode]
 enabled = true
-title = "Nogo's world"
-subtitle = "Web 3 is my life"
-imageUrl = "pp.jpeg"
+title = "nogo's world"
+subtitle = "I'm nogo a Mix Development Artist. I'm interested in web3 with a focus on DeFi, optimization and security. I'm currently building projects around web3 to learn and have fun."
+# imageUrl = "pp.jpeg"
 imageTitle = "nogo logo"
 imageWidth = 120
 imageHeight = 120
@@ -51,8 +52,8 @@ apple_touch_icon = "favicon/apple-touch-icon.png"
 safari_pinned_tab = "favicon/safari-pinned-tab.svg"
 
 [params.label]
-text = "nogo's world"
-icon = "pp.jpeg"
+text = "nogo"
+icon = "favicon/apple-touch-icon.png"
 iconHeight = 35
 
 [[menu.main]]

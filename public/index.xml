@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Nogo&#39;s world</title>
-    <link>http://nogo.wtf/</link>
-    <description>Recent content on Nogo&#39;s world</description>
+    <title>nogo&#39;s world</title>
+    <link>https://nogo.wtf/</link>
+    <description>Recent content on nogo&#39;s world</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://nogo.wtf/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://nogo.wtf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily log</title>
+      <link>https://nogo.wtf/logs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nogo.wtf/logs/</guid>
+      <description>Here is a daily log of my work and learning. The sole goal of this log is to keep track of my progress and to keep me accountable. I will try to keep it as short as possible.
+2022 September 29: Quick reading and set up of this hugo blog. Also finished sprint 2 around going deep on some defi protocols. Looking for the next project to work on. </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://nogo.wtf/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nogo.wtf/projects/</guid>
+      <description>Core projects None yet
+Active projects NFTLender NFTLender is a playground nft-based lending protocol. In simple world, you can deposit your NFTs as collateral. Each NFT will weight based on the floor price of the collection. With that, borrow ETH from the protocol, reimburse your loans and get liquidated 🤑.
+Fun project to learn about DeFi and NFT and try out some cool projects (Foundry and wagmi.js).
+Tech:
+Backend: Solidity, Foundry Frontend: React, TailwindCSS, wagmi Try it here (no eth in the smart contract so impossible to borrow).</description>
+    </item>
+    
   </channel>
 </rss>
