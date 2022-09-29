@@ -32,5 +32,28 @@ url = "https://twitter.com/0xnogo"
 name = "github"
 url = "https://github.com/0xnogo"
 
-[params]
-ShowBreadCrumbs = true
+[assets]
+disableFingerprinting = true
+favicon = "favicon.ico"
+favicon16x16 = "favicon.ico"
+favicon32x32 = "favicon.ico"
+apple_touch_icon = "favicon.ico"
+safari_pinned_tab = "favicon.ico"
+
+[[menu.main]]
+identifier = "posts"
+name = "articles"
+url = "/posts"
+weight = 10
+
+[[menu.main]]
+identifier = "project"
+name = "projects"
+url = "/projects"
+weight = 20
+
+[[menu.main]]
+identifier = "logs"
+name = "logs"
+url = "/logs"
+weight = 30
