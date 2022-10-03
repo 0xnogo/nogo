@@ -15,3 +15,6 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * working on a sandwich attack detector
 * checked [mev-inspect-py](https://github.com/flashbots/mev-inspect-py/blob/main/mev_inspect/sandwiches.py): understand how to classify a sandwich attack 
 * drafted an naive approach to detect sandwich attacks with a tx as an input
+### October
+#### 3
+* 
