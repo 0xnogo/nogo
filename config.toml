@@ -7,7 +7,7 @@ enableRobotsTXT = true
 [params]
 env = "production"
 title = "nogo's world"
-description = "Web 3 is my life"
+description = "About web3, tech, and other stuff"
 keywords = [ "Blog", "DeFi", "Ethereum", "Personal" ]
 # images = [ "images/defi-space.png" ]
 DateFormat = "January 2, 2006"
