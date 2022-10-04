@@ -9,6 +9,16 @@ TocOpen: true
 None yet
 ## Active projects
 
+### Sandwich detector [WIP]
+Sandwich detector is on-chain data analysis tool to detect sandwich attacks. 
+As I wanted to learn about sdk development in typescript, the core detection logic will sit in a specific sdk package. It is a work in progress and is currently being developed in [this repo](https://github.com/0xnogo/sandwich-detector-sdk).
+A backend and a frontend will be probably developped. 
+
+Tech:
+* sdk: Typescript, ethers.js
+* ??Backend??: nodejs, express, mongodb
+* Frontend: React, TailwindCSS, wagmi
+
 ### NFTLender
 NFTLender is a playground nft-based lending protocol. In simple world, you can deposit your NFTs as collateral. Each NFT will weight based on the floor price of the collection. With that, borrow ETH from the protocol, reimburse your loans and get liquidated 🤑.
 
