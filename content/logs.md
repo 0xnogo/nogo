@@ -25,3 +25,9 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * implemented the approach to detect sandwich attacks in a block
 * read and tried to implemented a library with typescript.
 * Currently messing with the tsconfig.json to make it work with the library
+#### 05
+* After few attempts, I was able to make it work but with some workaround command.
+* After taking a close look to uniswap v3 sdk, it looks like they are using tsdx to build their library. This thing is working perfectly well.
+* Defined sandwich detection logic for a specific address
+* Worked on the implementation of the logic which is implying to get all the tx from an address. Interestingly enough, nodes cannot return all the tx from an address. 
+* Integrated with Covalent api to get all the tx from an address and will finish the rest of the logic tomorrow
