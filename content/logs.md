@@ -31,3 +31,7 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * Defined sandwich detection logic for a specific address
 * Worked on the implementation of the logic which is implying to get all the tx from an address. Interestingly enough, nodes cannot return all the tx from an address. 
 * Integrated with Covalent api to get all the tx from an address and will finish the rest of the logic tomorrow
+#### 06
+* fixing an issue with the sandwich detection logic
+* finished the implementation of the sandwich detection logic for addresses but rpc is hitting the rate limit + logic very messy. Also Uniswap v2 is not showing a lot of attacks
+* Trying to understand the classification logic made in mev-inspect-py. Fail to run it as it requires an RPC with support for OpenEthereum / Erigon traces. 
