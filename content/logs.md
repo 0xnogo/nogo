@@ -34,4 +34,9 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 #### 06
 * fixing an issue with the sandwich detection logic
 * finished the implementation of the sandwich detection logic for addresses but rpc is hitting the rate limit + logic very messy. Also Uniswap v2 is not showing a lot of attacks
-* Trying to understand the classification logic made in mev-inspect-py. Fail to run it as it requires an RPC with support for OpenEthereum / Erigon traces. 
+* Trying to understand the classification logic made in mev-inspect-py. Fail to run it as it requires an RPC with support for OpenEthereum / Erigon traces.
+#### 07
+* Traces might add to much complexity to the project. Most probably not worth it for now
+* Massive refactoring of the code. Still missing testing.
+* Trying to make the RPC call robuster using a home-made retryable provider
+* Missing: check the swap creation, unit tests, CI/CD, documentation/Readme, Front-end?, article
