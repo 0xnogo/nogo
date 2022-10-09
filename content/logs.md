@@ -43,3 +43,6 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 #### 08
 * Came up with a light approach: considering that most of the sandwiches are happening at  n-1 and n+1, instead of calling the RPC to get the details of all the tx in a block, we could simply take the tx at n-1 and n+1 and check if they are sandwich attacks.
 * Done the implementation of the light approach by generalizing to n (so it will fetch n before and after the swap from the address). Giving better result in robustness and performance. Up to 2 it is working well. Will test it more tomorrow.
+#### 09
+* Starting testing
+* Got to read about mocking in jest (see [article](https://medium.com/@davguij/mocking-typescript-classes-with-jest-8ef992170d1d))
