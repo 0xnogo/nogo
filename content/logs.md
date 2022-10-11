@@ -50,3 +50,8 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * Checked the finalist of ETHBogota hackathon [link here](https://www.youtube.com/watch?v=WZbQO0esKzo)
 * so far failing due to `SyntaxError: Cannot use import statement outside a module` in the testing. TSDX seems to have all the config don correctly. --> downgraded axios to 0.21.1 (not importing but exporting the module directly). If I got time, I will open an issue os TSDX side.
 * Mocking TS classes is a mess with jest
+#### 11
+* Finished testing
+* Added CI/CD
+* Added documentation
+#### 12
