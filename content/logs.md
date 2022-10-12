@@ -55,3 +55,6 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * Added CI/CD
 * Added documentation
 #### 12
+* Create a thread about sandwich-scanner on twitter
+* Read [anatomy of a mev strategy from Bert Miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
+* Read [order flow](https://noxx.substack.com/p/order-flows-kingmaker-of-the-block) article from noxx. Order flow represents which actors and in what order are used to perform a tx (searcher order flow vs private order flow).
