@@ -1,7 +1,7 @@
 ---
 title: "Make your RPC calls more resilient"
 date: 2022-10-13T10:35:27+02:00
-draft: true
+draft: false
 ---
 
 Calling an RPC node is most of the time a flawless process. The standardized [JSON-RPC](https://ethereum.org/en/developers/docs/apis/json-rpc/) API is allowing convenience libraries (ethers.js, web3.js) to abstract the calls to the node with some utility methods. 
