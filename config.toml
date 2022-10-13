@@ -4,6 +4,10 @@ title = "nogo's world"
 theme = "PaperMod"
 enableRobotsTXT = true
 
+[security.funcs]
+getenv = [ "^VERCEL_" ]
+
+
 [params]
 env = "production"
 title = "nogo's world"
