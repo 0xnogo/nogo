@@ -266,3 +266,9 @@ Most of the methods above are derived from the previous examples. The main thing
 For the usage on both provider and contract calls, check the final code in the repository:
 * [callingProvider.ts](https://github.com/0xnogo/rpc-calls-resilient/blob/main/src/callingProvider.ts)
 * [callingContract.ts](https://github.com/0xnogo/rpc-calls-resilient/blob/main/src/callingContract.ts)
+
+## Conclusion
+This approach will allow you some reusability and flexibility. Feel free to reach out in twitter if you have any questions or suggestions.
+
+### Credits
+* [Chainstack](https://chainstack.com/tips-to-handle-rpc-request-errors/)
