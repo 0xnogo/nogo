@@ -61,4 +61,7 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 #### 13
 * Wrote [first article on wrapper and retry logic for RPC calls](https://www.nogo.wtf/posts/make-your-rpc-calls-more-resilient/) 🔥
 * Re-priortized my backlog: chose one project to work on: next project will be salty and private 3️😈
-* start rust learning with the [course from Rhymy](https://www.youtube.com/watch?v=8-qVNZ-zXL0&list=PLbtjxiXev6lpd331MW2dB7UgSIovgv169&index=1) 🦀
+* start rust learning with the [course from Rhymu](https://www.youtube.com/watch?v=8-qVNZ-zXL0&list=PLbtjxiXev6lpd331MW2dB7UgSIovgv169&index=1) 🦀
+#### 14
+* Finished the serie from Rhymu. `& = borrow`
+* In a sentence: rust is hard but worth to learn. A lot of very interesting concepts(Reference, Ownership, Borrowing, Lifetimes, Traits, Generics, etc...). Starting to work on the project decided will definitely help me to understand rust better. Even if, most probably, code will be a mess.
