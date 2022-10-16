@@ -65,3 +65,5 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 #### 14
 * Finished the serie from Rhymu. `& = borrow`
 * In a sentence: rust is hard but worth to learn. A lot of very interesting concepts(Reference, Ownership, Borrowing, Lifetimes, Traits, Generics, etc...). Starting to work on the project decided will definitely help me to understand rust better. Even if, most probably, code will be a mess.
+#### 15 - 16
+* Rusting... (https://exercism.org/tracks/rust + RPL book reading)
