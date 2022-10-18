@@ -67,3 +67,8 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * In a sentence: rust is hard but worth to learn. A lot of very interesting concepts(Reference, Ownership, Borrowing, Lifetimes, Traits, Generics, etc...). Starting to work on the project decided will definitely help me to understand rust better. Even if, most probably, code will be a mess.
 #### 15 - 17
 * Rusting... (https://exercism.org/tracks/rust + RPL book reading)
+#### 18
+* Review the [ownership and borrowing](https://www.youtube.com/watch?v=VFIOSWy93H0) concepts in rust
+* Review the [Stack and Heap model](https://www.youtube.com/watch?v=_8-ht2AKyH4)(similar to C/C++)
+* review on [traits](https://www.youtube.com/watch?v=T0Xfltu4h3A) and [how they compare to interfaces in OOP languages](https://www.youtube.com/watch?v=m_phdVlkr6U&list=RDLVNnLdGKoz1ls&index=8)
+* Rust exercism: [Allergies](https://exercism.org/tracks/rust/exercises/allergies)
