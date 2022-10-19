@@ -70,5 +70,9 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 #### 18
 * Review the [ownership and borrowing](https://www.youtube.com/watch?v=VFIOSWy93H0) concepts in rust
 * Review the [Stack and Heap model](https://www.youtube.com/watch?v=_8-ht2AKyH4)(similar to C/C++)
-* review on [traits](https://www.youtube.com/watch?v=T0Xfltu4h3A) and [how they compare to interfaces in OOP languages](https://www.youtube.com/watch?v=m_phdVlkr6U&list=RDLVNnLdGKoz1ls&index=8)
 * Rust exercism: [Allergies](https://exercism.org/tracks/rust/exercises/allergies)
+* Gone through mev discords
+#### 19
+* review on [traits](https://www.youtube.com/watch?v=T0Xfltu4h3A) and [how they compare to interfaces in OOP languages](https://www.youtube.com/watch?v=m_phdVlkr6U&list=RDLVNnLdGKoz1ls&index=8)
+* starting the rustlings course
+* Continue reading mev discords
