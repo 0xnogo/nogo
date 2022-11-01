@@ -76,3 +76,8 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * review on [traits](https://www.youtube.com/watch?v=T0Xfltu4h3A) and [how they compare to interfaces in OOP languages](https://www.youtube.com/watch?v=m_phdVlkr6U&list=RDLVNnLdGKoz1ls&index=8)
 * starting the rustlings course
 * Continue reading mev discords
+#### 20 - 27
+* Continue rustlings
+* Watched some tutorials (3 links bookmarked)
+#### 28 - 31
+* ETHLisbon hackathon
