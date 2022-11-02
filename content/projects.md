@@ -37,4 +37,14 @@ Tech:
 [Try it here](https://nftlender.vercel.app/) (no eth in the smart contract so impossible to borrow). Reach out to me if you want to have a try.
 
 ## Inactive projects
-None yet
+### Lobster [Hackathon project]
+API to onboard non-custodial users to web3. The user will be able to mint and transfer NFTs without having to create a wallet or pay for tx fees (similar to Reddit Vault).
+
+Learnings:
+* Back-end with Express
+* Public/private key generation
+
+Tech:
+* Backend: Solidity, Express, Postgres, ethers
+
+[Repo](https://github.com/omnifient/lobster-api) of the api.
