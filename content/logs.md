@@ -81,7 +81,7 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * Watched some tutorials (3 links bookmarked)
 #### 28 - 31
 * ETHLisbon hackathon
-### September
+### November
 #### 2
 * finished rustlings
 * lecture on EVM
