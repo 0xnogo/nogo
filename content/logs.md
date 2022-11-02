@@ -81,3 +81,8 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * Watched some tutorials (3 links bookmarked)
 #### 28 - 31
 * ETHLisbon hackathon
+### September
+#### 2
+* finished rustlings
+* lecture on EVM
+* Pause the mempool watcher project to another project: on chain smart contracts analyzer
