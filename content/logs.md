@@ -86,3 +86,6 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * finished rustlings
 * lecture on EVM
 * Pause the mempool watcher project to another project: on chain smart contracts analyzer
+#### 3-4
+* started the smart contract analyzer in rust
+* created a second brain notion doc. Will try to follow it to structurize my day
