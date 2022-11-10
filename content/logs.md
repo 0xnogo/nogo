@@ -89,3 +89,4 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 #### 3-4
 * started the smart contract analyzer in rust
 * created a second brain notion doc. Will try to follow it to structurize my day
+#### 4-5
