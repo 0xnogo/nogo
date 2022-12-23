@@ -91,3 +91,7 @@ Here is a daily log of my work and learning. The sole goal of this log is to kee
 * created a second brain notion doc. Will try to follow it to structurize my day
 #### 4-10
 * working on a contract analyzer
+### December
+* Finished the on chain contract analyzer in rust
+* participated to a code4rena contest
+* long break (covid + vacation)
