@@ -26,6 +26,7 @@ Tech:
 ### Lobster [Hackathon project]
 * Build time: 48 hours 
 * Repo(s): [API](https://github.com/omnifient/lobster-api), [Frontend](https://github.com/thekidnamedkd/hapi-meal-fe)
+
 API to onboard non-custodial users to web3. The user will be able to mint and transfer NFTs without having to create a wallet or pay for tx fees (similar to Reddit Vault).
 
 Learnings:
@@ -39,6 +40,7 @@ Tech:
 ### Sandwich Scanner
 * Build time: 2 weeks
 * Repo(s): [library](https://github.com/0xnogo/sandwich-scanner)
+
 Sandwich Scanner is on-chain data analysis tool to detect sandwich attacks. 
 As I wanted to learn about sdk development in typescript, the core detection logic will sit in a [library](https://github.com/0xnogo/sandwich-scanner).
 
@@ -55,11 +57,11 @@ Tech:
 ### On-chain smart contract analysis
 * Build time: 2 weeks
 * Repo(s): private (for now)
+
 Script to analyze smart contracts on-chain. The script will filter all smart contract creation transactions, get the bytecode and perform a static analysis on it. The analysis is done by scrapping etherscan for verified contracts. The code has been written in Rust in a modular way to be able to add more analysis in the future.
 
 Learnings:
 * rust concepts: async, impl, traits, lifetimes, option, result, error handling...
-
 
 Tech:
 * rust lib: tokio, reqwest, ethers.rs, futures, regex, scraper
