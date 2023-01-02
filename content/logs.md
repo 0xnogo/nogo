@@ -5,6 +5,14 @@ draft: false
 
 Here is a daily log of my work and learning. The sole goal of this log is to keep track of my progress and to keep me accountable. I will try to keep it as short as possible.
 
+## 2023
+### January
+* Continuing my path to mastering rust: Box
+* Audit report reading on C4: OHM, ENS
+* Participated in C4 contests: GogoPool
+* Building a calldata parser in rust which is not required the ABI. It will give some hints to the user on how to decipher the data. Still WIP (kinda lost some rust knowledge kek)
+
+
 ## 2022
 ### September
 #### 29
